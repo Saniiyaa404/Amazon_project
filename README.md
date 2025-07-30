@@ -64,7 +64,7 @@ amazon-clone/
 ├── index.html
 ├── style.css
 └── README.md
-[Project link] (https://saniiyaa404.github.io/Amazon_project/)
+[Project link](https://saniiyaa404.github.io/Amazon_project/)
 
 📬 Feedback
 Feel free to share feedback or suggestions – I’m always eager to improve and learn!
