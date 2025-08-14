@@ -5,8 +5,8 @@ The creator of this page is **NOT affiliated** with the company or brand in any 
 This page is a **personal project made solely for educational purposes**.
 
 # Amazon_project
-🛒 Amazon Clone (HTML & CSS Only)
-Welcome to my Amazon Clone – a simple and static replica of the Amazon homepage built using only HTML and CSS. This is the first web clone I've ever built, and it helped me understand the structure of real-world websites and how layout, design, and responsiveness come together.
+🛒 Amazon Homepage Clone (HTML & CSS Only)
+Welcome to my Amazon Homepage Clone – a simple and static replica of the Amazon homepage built using only HTML and CSS. Also, no data collection or interactivity is enabled. This is the first web clone I've ever built, and it helped me understand the structure of real-world websites and how layout, design, and responsiveness come together.
 
 🔨 What I Used
 HTML5 – for structuring the page.
