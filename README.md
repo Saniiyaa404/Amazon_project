@@ -15,14 +15,6 @@ CSS3 – for styling and layout.
 
 ⚠️ No JavaScript used – This is a static, non-functional UI clone focused only on visual representation.
 
-📸 Preview
-
-![Amazon_Project - Personal - Microsoft​ Edge 23-06-2025 19_21_15](https://github.com/user-attachments/assets/e1b99fc6-460d-4df3-ba7e-0c7a9f2f221b)
-
-![Amazon_Project - Personal - Microsoft​ Edge 23-06-2025 19_21_39](https://github.com/user-attachments/assets/2e710fbc-2bbf-481b-b232-f96374c9075c)
-
-![Amazon_Project - Personal - Microsoft​ Edge 23-06-2025 19_21_45](https://github.com/user-attachments/assets/4f06590e-0df1-4907-93e9-a3ae4667a85e)
-
 🎯 Features Replicated
 
 ✅ Navigation bar (with logo, search bar, and nav items)
