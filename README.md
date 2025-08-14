@@ -15,9 +15,9 @@ CSS3 – for styling and layout.
 
 Preview : 
 
-<img width="1892" height="715" alt="Amazon_Project - Google Chrome 14-08-2025 18_36_19" src="https://github.com/user-attachments/assets/8841b6db-6fde-41d2-8cfe-2f072472d7e9" />
 <img width="1894" height="869" alt="Amazon_Project - Google Chrome 14-08-2025 18_36_11" src="https://github.com/user-attachments/assets/b1c00be0-e9a5-4de9-9eba-6fb21bcb38bc" />
 <img width="1920" height="873" alt="Amazon_Project - Google Chrome 14-08-2025 18_35_58" src="https://github.com/user-attachments/assets/04d22ec8-8a2c-437a-8e73-03096c4b5b29" />
+<img width="1892" height="715" alt="Amazon_Project - Google Chrome 14-08-2025 18_36_19" src="https://github.com/user-attachments/assets/8841b6db-6fde-41d2-8cfe-2f072472d7e9" />
 
 ⚠️ No JavaScript used – This is a static, non-functional UI clone focused only on visual representation.
 
